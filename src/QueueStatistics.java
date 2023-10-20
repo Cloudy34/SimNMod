@@ -1,5 +1,3 @@
-package SimNMod;
-
 public class QueueStatistics {
     private int numCustomersInQueue;
     private int numCustomersInSystem;
